@@ -4,7 +4,7 @@
 <hr>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVxN2huNHd2YnJtdnR2Y3lvY2Y4ZnhjaDV3NXN3eHp0dmE3N29uNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif">
 
-- 🌱 I’m currently learning **Scikit-learn**,**Tensorflow**
+-  I’m currently learning **Scikit-learn**,**Tensorflow**
 
 
 <h3 align="left">Contact me:</h3>
