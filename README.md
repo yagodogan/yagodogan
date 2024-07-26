@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Yagiz</h3>
 <hr>
-<h3 align="center">A guy trying to become an AI dev</h3>
+<h3 align="center">trying to become an game dev</h3>
 <hr>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVxN2huNHd2YnJtdnR2Y3lvY2Y4ZnhjaDV3NXN3eHp0dmE3N29uNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif">
 
